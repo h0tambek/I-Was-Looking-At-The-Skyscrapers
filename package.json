@@ -1,0 +1,14 @@
+{
+  "name": "youtube-to-mp3",
+  "version": "1.0.0",
+  "description": "Perspective",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hotambek Yusupov",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint-plugin-unicorn": "^45.0.2"
+  }
+}
